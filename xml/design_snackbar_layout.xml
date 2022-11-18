@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<view
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:theme="@ref/0x7f1001d5"
+    android:layout_gravity="0x50"
+    android:layout_width="-1"
+    android:layout_height="-2"
+    class="com.google.android.material.snackbar.SnackbarContentLayout">
+
+    <TextView
+        android:textAppearance="@ref/0x7f10016e"
+        android:ellipsize="3"
+        android:layout_gravity="0x800013"
+        android:id="@ref/0x7f080186"
+        android:paddingLeft="@ref/0x7f060085"
+        android:paddingTop="@ref/0x7f060086"
+        android:paddingRight="@ref/0x7f060085"
+        android:paddingBottom="@ref/0x7f060086"
+        android:layout_width="-2"
+        android:layout_height="-2"
+        android:maxLines="@ref/0x7f090006"
+        android:layout_weight="1065353216.000000"
+        android:textAlignment="5" />
+
+    <Button
+        android:textColor="@attr/0x7f0300cc"
+        android:layout_gravity="0x800015"
+        android:id="@ref/0x7f080185"
+        android:visibility="2"
+        android:layout_width="-2"
+        android:layout_height="-2"
+        android:layout_marginLeft="@ref/0x7f060082"
+        android:minWidth="dimension(12289)"
+        android:layout_marginStart="@ref/0x7f060082"
+        style="@attr/0x7f030061" />
+</view>
