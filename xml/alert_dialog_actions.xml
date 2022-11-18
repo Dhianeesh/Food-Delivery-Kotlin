@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@ref/0x7f080065"
+    android:layout_width="-1"
+    android:layout_height="-2"
+    android:fillViewport="true"
+    android:scrollIndicators="0x3"
+    style="@attr/0x7f030076">
+
+    <androidx.appcompat.widget.ButtonBarLayout
+        android:gravity="0x50"
+        android:orientation="0"
+        android:paddingLeft="dimension(2049)"
+        android:paddingTop="dimension(513)"
+        android:paddingRight="dimension(2049)"
+        android:paddingBottom="dimension(513)"
+        android:layout_width="-1"
+        android:layout_height="-2"
+        android:layoutDirection="3"
+        android:paddingStart="dimension(2049)"
+        android:paddingEnd="dimension(2049)"
+        android:paddingHorizontal="dimension(2049)"
+        android:paddingVertical="dimension(513)">
+
+        <Button
+            android:id="@ref/0x0102001b"
+            android:layout_width="-2"
+            android:layout_height="-2"
+            style="@attr/0x7f030074" />
+
+        <android.widget.Space
+            android:id="@ref/0x7f08018a"
+            android:visibility="1"
+            android:layout_width="dimension(1)"
+            android:layout_height="dimension(1)"
+            android:layout_weight="1065353216.000000" />
+
+        <Button
+            android:id="@ref/0x0102001a"
+            android:layout_width="-2"
+            android:layout_height="-2"
+            style="@attr/0x7f030073" />
+
+        <Button
+            android:id="@ref/0x01020019"
+            android:layout_width="-2"
+            android:layout_height="-2"
+            style="@attr/0x7f030075" />
+    </androidx.appcompat.widget.ButtonBarLayout>
+</ScrollView>
