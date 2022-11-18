@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.AlertDialogLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:gravity="0x800033"
+    android:orientation="1"
+    android:id="@ref/0x7f08014c"
+    android:layout_width="-1"
+    android:layout_height="-2">
+
+    <include
+        layout="@ref/0x7f0b0042" />
+
+    <FrameLayout
+        android:id="@ref/0x7f080085"
+        android:layout_width="-1"
+        android:layout_height="-2"
+        android:minHeight="dimension(12289)">
+
+        <View
+            android:layout_gravity="0x30"
+            android:id="@ref/0x7f08016b"
+            android:background="@attr/0x7f0300d0"
+            android:visibility="2"
+            android:layout_width="-1"
+            android:layout_height="dimension(257)" />
+
+        <androidx.core.widget.NestedScrollView
+            android:id="@ref/0x7f08016c"
+            android:clipToPadding="false"
+            android:layout_width="-1"
+            android:layout_height="-2">
+
+            <LinearLayout
+                android:orientation="1"
+                android:layout_width="-1"
+                android:layout_height="-2">
+
+                <android.widget.Space
+                    android:id="@ref/0x7f0801b8"
+                    android:visibility="2"
+                    android:layout_width="-1"
+                    android:layout_height="@ref/0x7f060025" />
+
+                <TextView
+                    android:id="@ref/0x0102000b"
+                    android:paddingLeft="@attr/0x7f030125"
+                    android:paddingRight="@attr/0x7f030125"
+                    android:layout_width="-1"
+                    android:layout_height="-2"
+                    style="@attr/0x7f030241" />
+
+                <android.widget.Space
+                    android:id="@ref/0x7f0801b7"
+                    android:visibility="2"
+                    android:layout_width="-1"
+                    android:layout_height="@ref/0x7f060025" />
+            </LinearLayout>
+        </androidx.core.widget.NestedScrollView>
+
+        <View
+            android:layout_gravity="0x50"
+            android:id="@ref/0x7f08016a"
+            android:background="@attr/0x7f0300d0"
+            android:visibility="2"
+            android:layout_width="-1"
+            android:layout_height="dimension(257)" />
+    </FrameLayout>
+
+    <FrameLayout
+        android:id="@ref/0x7f08008d"
+        android:layout_width="-1"
+        android:layout_height="-2"
+        android:minHeight="dimension(12289)">
+
+        <FrameLayout
+            android:id="@ref/0x7f08008c"
+            android:layout_width="-1"
+            android:layout_height="-2">
+
+        </FrameLayout>
+    </FrameLayout>
+
+    <include
+        android:layout_width="-1"
+        android:layout_height="-2"
+        layout="@ref/0x7f0b0041" />
+</androidx.appcompat.widget.AlertDialogLayout>
