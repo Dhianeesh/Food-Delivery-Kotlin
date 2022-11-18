@@ -1,0 +1,18 @@
+&lt;resources xmlns:tools=&quot;http://schemas.android.com/tools&quot;&gt;
+&lt;!-- Base application theme. --&gt;
+&lt;style name=&quot;Theme.FoodOrderAndDeliveryAppKotlin&quot;
+parent=&quot;Theme.MaterialComponents.DayNight.DarkActionBar&quot;&gt;
+&lt;!-- Primary brand color. --&gt;
+&lt;item name=&quot;colorPrimary&quot;&gt;@color/purple_500&lt;/item&gt;
+&lt;item name=&quot;colorPrimaryVariant&quot;&gt;@color/purple_700&lt;/item&gt;
+&lt;item name=&quot;colorOnPrimary&quot;&gt;@color/white&lt;/item&gt;
+&lt;!-- Secondary brand color. --&gt;
+&lt;item name=&quot;colorSecondary&quot;&gt;@color/teal_200&lt;/item&gt;
+&lt;item name=&quot;colorSecondaryVariant&quot;&gt;@color/teal_700&lt;/item&gt;
+&lt;item name=&quot;colorOnSecondary&quot;&gt;@color/black&lt;/item&gt;
+&lt;!-- Status bar color. --&gt;
+&lt;item name=&quot;android:statusBarColor&quot;
+tools:targetApi=&quot;l&quot;&gt;?attr/colorPrimaryVariant&lt;/item&gt;
+&lt;!-- Customize your theme here. --&gt;
+&lt;/style&gt;
+&lt;/resources&gt;
