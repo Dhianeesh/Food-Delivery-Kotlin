@@ -1,0 +1,10 @@
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-8&quot;?&gt;
+&lt;resources&gt;
+&lt;color name=&quot;purple_200&quot;&gt;#FF960505&lt;/color&gt;
+&lt;color name=&quot;purple_500&quot;&gt;#FF960505&lt;/color&gt;
+&lt;color name=&quot;purple_700&quot;&gt;#FF960505&lt;/color&gt;
+&lt;color name=&quot;teal_200&quot;&gt;#FF03DAC5&lt;/color&gt;
+&lt;color name=&quot;teal_700&quot;&gt;#FF018786&lt;/color&gt;
+&lt;color name=&quot;black&quot;&gt;#DFE7E8&lt;/color&gt;
+&lt;color name=&quot;white&quot;&gt;#FFFFFFFF&lt;/color&gt;
+&lt;/resources&gt;
