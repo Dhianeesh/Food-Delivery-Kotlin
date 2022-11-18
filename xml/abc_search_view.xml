@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="0"
+    android:id="@ref/0x7f08016f"
+    android:layout_width="-1"
+    android:layout_height="-1">
+
+    <TextView
+        android:textAppearance="@attr/0x1010041"
+        android:textColor="@attr/0x1010036"
+        android:gravity="0x10"
+        android:id="@ref/0x7f08016e"
+        android:visibility="2"
+        android:layout_width="-2"
+        android:layout_height="-1"
+        android:layout_marginBottom="dimension(513)"
+        android:drawablePadding="dimension(1)" />
+
+    <ImageView
+        android:layout_gravity="0x10"
+        android:id="@ref/0x7f080170"
+        android:focusable="true"
+        android:layout_width="-2"
+        android:layout_height="-1"
+        android:contentDescription="@ref/0x7f0f0015"
+        style="@attr/0x7f03000d" />
+
+    <LinearLayout
+        android:orientation="0"
+        android:id="@ref/0x7f080172"
+        android:layout_width="-2"
+        android:layout_height="-1"
+        android:layout_marginLeft="dimension(2049)"
+        android:layout_marginRight="dimension(2049)"
+        android:layout_weight="1065353216.000000"
+        android:layoutDirection="3">
+
+        <ImageView
+            android:layout_gravity="0x10"
+            android:id="@ref/0x7f080174"
+            android:visibility="2"
+            android:layout_width="@ref/0x7f060029"
+            android:layout_height="-2"
+            android:scaleType="7"
+            style="@ref/0x7f10010e" />
+
+        <LinearLayout
+            android:layout_gravity="0x10"
+            android:orientation="0"
+            android:id="@ref/0x7f080175"
+            android:layout_width="-2"
+            android:layout_height="-1"
+            android:layout_weight="1065353216.000000">
+
+            <view
+                android:ellipsize="3"
+                android:layout_gravity="0x10"
+                android:id="@ref/0x7f080176"
+                android:background="@ref/0x00000000"
+                android:paddingLeft="@ref/0x7f06002a"
+                android:paddingRight="@ref/0x7f06002b"
+                android:layout_width="dimension(1)"
+                android:layout_height="dimension(9217)"
+                android:singleLine="true"
+                android:layout_weight="1065353216.000000"
+                android:inputType="0x90001"
+                android:dropDownAnchor="@ref/0x7f080172"
+                android:imeOptions="0x3"
+                android:dropDownHeight="-2"
+                android:dropDownHorizontalOffset="dimension(1)"
+                android:dropDownVerticalOffset="dimension(1)"
+                class="androidx.appcompat.widget.SearchView$SearchAutoComplete" />
+
+            <ImageView
+                android:layout_gravity="0x10"
+                android:id="@ref/0x7f080171"
+                android:background="@attr/0x7f0302f2"
+                android:paddingLeft="dimension(2049)"
+                android:paddingRight="dimension(2049)"
+                android:focusable="true"
+                android:layout_width="-2"
+                android:layout_height="-1"
+                android:contentDescription="@ref/0x7f0f0013" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="0"
+            android:id="@ref/0x7f08019f"
+            android:layout_width="-2"
+            android:layout_height="-1">
+
+            <ImageView
+                android:layout_gravity="0x10"
+                android:id="@ref/0x7f080173"
+                android:background="@attr/0x7f0302f2"
+                android:paddingLeft="dimension(4097)"
+                android:paddingRight="dimension(4097)"
+                android:focusable="true"
+                android:visibility="2"
+                android:layout_width="-2"
+                android:layout_height="-1"
+                android:contentDescription="@ref/0x7f0f0016" />
+
+            <ImageView
+                android:layout_gravity="0x10"
+                android:id="@ref/0x7f080177"
+                android:background="@attr/0x7f0302f2"
+                android:paddingLeft="dimension(4097)"
+                android:paddingRight="dimension(4097)"
+                android:focusable="true"
+                android:visibility="2"
+                android:layout_width="-2"
+                android:layout_height="-1"
+                android:contentDescription="@ref/0x7f0f0017" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>
