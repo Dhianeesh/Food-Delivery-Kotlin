@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.view.menu.ListMenuItemView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="1"
+    android:layout_width="-1"
+    android:layout_height="-2"
+    android:minWidth="dimension(50177)">
+
+    <ImageView
+        android:id="@ref/0x7f0800cb"
+        android:background="@ref/0x7f07002b"
+        android:layout_width="-1"
+        android:layout_height="dimension(257)"
+        android:layout_marginTop="dimension(1025)"
+        android:layout_marginBottom="dimension(1025)" />
+
+    <LinearLayout
+        android:id="@ref/0x7f080084"
+        android:duplicateParentState="true"
+        android:layout_width="-1"
+        android:layout_height="@attr/0x7f03013b"
+        style="@ref/0x7f100103">
+
+        <TextView
+            android:textAppearance="@attr/0x7f030363"
+            android:layout_gravity="0x10"
+            android:id="@ref/0x7f0801c6"
+            android:duplicateParentState="true"
+            android:layout_width="-2"
+            android:layout_height="-2"
+            android:singleLine="true"
+            style="@ref/0x7f100108" />
+
+        <Space
+            android:layout_width="dimension(1)"
+            android:layout_height="dimension(257)"
+            android:layout_weight="1065353216.000000" />
+
+        <TextView
+            android:textAppearance="@attr/0x7f03036c"
+            android:layout_gravity="0x10"
+            android:id="@ref/0x7f08017d"
+            android:duplicateParentState="true"
+            android:layout_width="-2"
+            android:layout_height="-2"
+            android:singleLine="true"
+            style="@ref/0x7f100105" />
+
+        <ImageView
+            android:layout_gravity="0x11"
+            android:id="@ref/0x7f08019e"
+            android:visibility="2"
+            android:layout_width="-2"
+            android:layout_height="-2"
+            android:scaleType="5"
+            style="@ref/0x7f100106" />
+    </LinearLayout>
+</androidx.appcompat.view.menu.ListMenuItemView>
